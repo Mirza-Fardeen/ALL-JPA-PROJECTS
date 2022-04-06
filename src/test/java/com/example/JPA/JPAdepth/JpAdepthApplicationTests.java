@@ -1,0 +1,13 @@
+package com.example.JPA.JPAdepth;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JpAdepthApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
